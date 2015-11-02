@@ -1,3 +1,3 @@
-El Perro No se Deja - Teatro del Perro
+Sitio Web para Grisel y Blanquito, el "Duo Cromático"
 
-basado en Boostrap 2
+Basado en Bootstrap 2
